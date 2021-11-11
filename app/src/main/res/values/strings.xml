@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">No Crop</string>
+    <string name="StartScreenString">Add photo</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="background">Background</string>
+    <string name="patten">Patten</string>
+    <string name="blur">Blur</string>
+    <string name="rotate">Rotate</string>
+    <string name="developer"></string>
+
+    <!-- Current Ads String -->
+    <string name="Banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="adcolony_app_id">app801b6402e4b741ad8b</string>
+    <string name="adcolony_banner_id">vzc8fd799f505d4d4c9c</string>
+    <string name="adcolony_interstitial_id">vza6ef94e4656240dca5</string>
+
+</resources>

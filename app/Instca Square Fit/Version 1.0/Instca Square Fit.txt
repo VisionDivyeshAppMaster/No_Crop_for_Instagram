@@ -1,0 +1,17 @@
+developer : fenil
+develop date : 04/12/18
+apk generate date : 19/12/18
+release date : 19/12/18
+
+versionCode 1
+versionName "1.0"
+
+app name : Instca Square Fit
+jks file name : Instca Square Fit.jks
+
+ads ID : 
+ads banner : 
+ads interstitial : 
+
+alisa : Key0
+password : sir ae nakhelo

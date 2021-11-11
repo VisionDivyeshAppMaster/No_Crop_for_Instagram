@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/No_Crop_for_Instagram.iml" filepath="$PROJECT_DIR$/.idea/modules/No_Crop_for_Instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/No_Crop_for_Instagram.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/No_Crop_for_Instagram.app.iml" />
+    </modules>
+  </component>
+</project>
